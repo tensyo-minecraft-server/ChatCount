@@ -1,0 +1,4 @@
+name: ChatCount
+version: '${version}'
+main: moe.nmkmn.chat_count.ChatCount
+api-version: '1.20'
